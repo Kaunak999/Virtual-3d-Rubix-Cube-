@@ -1,4 +1,4 @@
-README: Virtual Rubik's Cube
+**Virtual Rubik's Cube**
 
 Overview
 The Virtual Rubik's Cube project simulates a 3D Rubik's Cube in Python, allowing users to interact with and solve it using a graphical interface. The cube can be manipulated with buttons for rotations, scrambled randomly, and even solved programmatically. It uses vpython for 3D rendering and the kociemba library for solving the cube.
